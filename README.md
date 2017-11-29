@@ -8,3 +8,6 @@ jsfiddle url
 
 ## JS
 -[JS validate](https://jsfiddle.net/snqqtp0e/)
+
+## Vue
+- [Vue text](http://jsfiddle.net/0gLabczz/)
